@@ -1,0 +1,46 @@
+.conteudo{
+	
+	-fx-background-color: black;
+	-fx-font-family: Oswald;
+	
+}
+.numero{
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 50px;
+	
+}
+.titulo{
+	-fx-text-fill: #3fbfbf;
+	-fx-font-size: 50px;
+}
+.botoesI{
+	-fx-background-color: #f3f3f3;
+	-fx-text-fill: #73d216;
+	-fx-font-size: 32px;
+	-fx-min-width: 70px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 100px;
+}
+.botoesD{
+	-fx-background-color: #f3f3f3;
+	-fx-text-fill: #cc0000;
+	-fx-font-size: 32px;
+	-fx-min-width: 70px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 100px;
+}
+.verde{
+	-fx-text-fill: #73d216;
+	-fx-font-size: 50px;
+}
+.vermelho{
+	-fx-text-fill: #cc0000;
+	-fx-font-size: 50px;
+}
+
+
+
+
+
+
+
